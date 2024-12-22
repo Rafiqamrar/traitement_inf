@@ -1,0 +1,4 @@
+1 - PCA 
+2 -  unsupervised classification with hearchical classification and with k means ==> analyse comparative 
+3 - SVM  ==> analyse the results and compare with the unsupervised 
+4 - conclution .
